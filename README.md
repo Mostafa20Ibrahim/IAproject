@@ -1,2 +1,1 @@
 # IAproject
-zeko CYKA
